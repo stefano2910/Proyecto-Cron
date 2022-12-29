@@ -1,0 +1,9 @@
+Base de Datos
+
+Hostname: database-lp2-ex2.ctzotwop7mky.us-east-1.rds.amazonaws.com
+
+username: adminex2
+
+password: ex2lp22022
+
+nombre de la BD: lp2ex2
