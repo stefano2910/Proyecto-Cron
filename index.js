@@ -8,7 +8,7 @@ let isRunning = false;
 const fileMover = new CronJob(process.env.CRON_TIME, async () => {
   if (!isRunning) {
     isRunning = true;
-    await job();
+    //await job();
     isRunning = false;
   }
 });
